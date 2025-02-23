@@ -1,2 +1,2 @@
-# cashcore
+# Cash Core
 core application
